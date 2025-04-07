@@ -37,7 +37,7 @@ draw_graph(d)
 
 ## Repo Structure
 
-1. [`learnings/minigrad.ipynb`](minigrad.ipynb): notebook of me exploring miningrad.
+1. [`learnings/minigrad.ipynb`](learnings/minigrad.ipynb): notebook of me exploring miningrad.
 1. [`minigrad/engine.py`](minigrad/engine.py): This has the value object and the operations available on it.
 1. [`minigrad/nn.py`](minigrad/nn.py): The logic for layers and MLP.
 1. [`minigrad/visualize.py`](minigrad/visualize.py): This just draws nice-looking computational graphs.
